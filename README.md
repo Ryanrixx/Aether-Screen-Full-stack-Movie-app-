@@ -33,7 +33,7 @@ It delivers a sleek, responsive movie discovery experience that works seamlessly
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/yourusername/aether-screen.git
+git clone https://github.com/Ryanrixx/aether-screen.git
 cd aether-screen
 
 ### 2️⃣ Install Dependencies
